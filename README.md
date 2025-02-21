@@ -27,6 +27,44 @@ Add a CONTRIBUTING.md file with instructions for those who want to contribute.
 - **Best Practices**: Tips and common mistakes.
 - **Mini-Projects**: Small projects demonstrating concepts.
 
+## Project Structure
+```bash
+Coding-Fundamentals/
+│── DataStructures/
+│   ├── README.md
+│   ├── Arrays/
+│   ├── LinkedLists/
+│   ├── Stacks/
+│   ├── Queues/
+│   ├── Trees/
+│   ├── Graphs/
+│   ├── SortingAlgorithms/
+│   ├── SearchingAlgorithms/
+│── ObjectOrientedProgramming/
+│   ├── README.md
+│   ├── Concepts/
+│   ├── Encapsulation/
+│   ├── Inheritance/
+│   ├── Polymorphism/
+│   ├── Abstraction/
+│   ├── DesignPatterns/
+│── WebDevelopment/
+│   ├── README.md
+│   ├── HTML/
+│   ├── CSS/
+│   ├── JavaScript/
+│   ├── FrontendFrameworks/
+│   ├── BackendTechnologies/
+│── MobileAppDevelopment/
+│   ├── README.md
+│   ├── ReactNative/
+│   ├── Flutter/
+│   ├── AndroidDevelopment/
+│── README.md
+│── CONTRIBUTING.md
+│── LICENSE
+```
+
 ## Language Support
 
 Since it's a **fundamentals repository**, covering **multiple languages** (Python, Java, C++, JavaScript) for each concept can be helpful.
