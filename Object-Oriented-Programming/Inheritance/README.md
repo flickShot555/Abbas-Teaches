@@ -9,10 +9,10 @@ Welcome to the **Inheritance in OOP** repository! This repo contains beginner-fr
 - 🎯 C#
 
 ## 📂 File Structure
-- `inheritance_python.py` - Python implementation
-- `inheritance_java.java` - Java implementation
-- `inheritance_javascript.js` - JavaScript implementation
-- `inheritance_csharp.cs` - C# implementation
+- `inheritance.py`      - Python implementation
+- `inheritance.java`    - Java implementation
+- `inheritance.js`      - JavaScript implementation
+- `inheritance.cs`      - C# implementation
 
 ## 📝 Explanation
 - The `Person` class acts as a **base class**.
@@ -22,23 +22,23 @@ Welcome to the **Inheritance in OOP** repository! This repo contains beginner-fr
 ## 🚀 How to Run
 ### Python 🐍
 ```bash
-python inheritance_python.py
+python inheritance.py
 ```
 
 ### Java ☕
 ```bash
-javac inheritance_java.java
+javac inheritance.java
 java Main
 ```
 
 ### JavaScript 🌐
 ```bash
-node inheritance_javascript.js
+node inheritance.js
 ```
 
 ### C# 🎯
 ```bash
-csc inheritance_csharp.cs
+csc inheritance.cs
 InheritanceCsharp.exe
 ```
 
@@ -46,3 +46,10 @@ InheritanceCsharp.exe
 Feel free to submit pull requests or suggest improvements! Let's make OOP easier to understand together. 💡
 
 Happy Coding! 🚀
+
+## contact
+- **Author** Abbas Khan
+- **Email**     [abbas1795khan@gmail.com](mailto:abbas1795khan@gmail.com)
+- **LinkedIn**  [the-abbas-khan](https://linkedin.com/in/the-abbas-khan)
+- **GitHub**    [flickShot555](https://github.com/flickShot555/)
+- **portfolio** [Aepostrophee](https://www.aepostrophee.kesug.com)
